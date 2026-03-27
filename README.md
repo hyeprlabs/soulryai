@@ -1,2 +1,0 @@
-# soulryai
-SoulryAI
